@@ -151,7 +151,7 @@ This project is [MIT](LICENSE) licensed.
 **Tygo van Steenpaal**
 
 - GitHub: [@tygovansteenpaal](https://github.com/tygovansteenpaal)
-- LinkedIn: [linkedin.com/in/tygovansteenpaal](https://linkedin.com/in/tygovansteenpaal)
+- LinkedIn: [www.linkedin.com/in/tygo-van-steen-37715a3a9)
 
 ## 🙏 Acknowledgments
 
