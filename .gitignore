@@ -1,0 +1,51 @@
+# Ignore vendor directory
+/vendor/
+/node_modules/
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore log files
+*.log
+logs/
+
+# Ignore uploaded files (keep directory structure)
+/assets/images/uploads/*
+!/assets/images/uploads/.gitkeep
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.cache
+
+# Ignore composer files (if not using)
+composer.phar
+composer.lock
+
+# Ignore session files
+/sessions/*
+
+# Ignore backup files
+*.bak
+*.backup
+*.sql.backup
+
+# Ignore compiled files
+*.compiled
+
+# Keep important files
+!.gitignore
+!.htaccess
