@@ -72,7 +72,7 @@ chmod 755 assets/images/uploads
 
 Open your browser and navigate to:
 ```
-http://localhost/Stravasa
+http://localhost/stravasa
 ```
 
 ## 📖 Documentation
@@ -118,11 +118,6 @@ stravasa/
 - Session management
 - Input validation and sanitization
 
-## 🎨 Screenshots
-
-<!-- Add your screenshots here -->
-*Coming soon*
-
 ## 🧪 Testing
 
 Run the included tests:
@@ -152,7 +147,7 @@ This project is [MIT](LICENSE) licensed.
 **Tygo van Steenpaal**
 
 - GitHub: [@tygovansteenpaal](https://github.com/tygovansteenpaal)
-- LinkedIn: [www.linkedin.com/in/tygo-van-steen-37715a3a9)
+- LinkedIn: [tygo-van-steen](https://www.linkedin.com/in/tygo-van-steen-37715a3a9)
 
 ## 🙏 Acknowledgments
 
